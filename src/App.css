@@ -1,0 +1,26 @@
+*
+{
+  outline: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  margin:0px 20px;
+  padding:20px;
+}
+
+button
+{
+  width:max-content;
+  padding:8px 20px;
+  cursor:pointer
+}
+
+h1
+{
+  text-align: left;
+}
+
+p{
+  font-size: 22px;
+}
