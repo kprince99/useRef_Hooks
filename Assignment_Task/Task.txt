@@ -1,12 +1,24 @@
 Hey EveryOne!
 
-As you have already used to App and understand the useRef Hook concept. So now You have to perform Some Extra task on this App.
+
+As you have already used to App and understand the useRef Hook concept.
+
+Lets have a quick summary:
+	useRef() only return one items, an object called current so you can perform any styling, manipulating on current object.
+	In React, we can add a ref attribute(see in App Example #1) to access it directly in the DOM.
+
+[Optional]
+	You can use useState with useRef to keep track of states (See in Example #2)
+ 
+So now You have to perform Some Extra task on this App.
 
 The task listed are :-
 
 1. In First Example,  you have to replace the text with any image of your choice when button is pressed.
 
 2. In Second Example, using useRef create a stopwatch which run for every 10s.
+
+
 
 
 Thankyou.
